@@ -5,5 +5,5 @@ function add() {
     console.log("Addition is " , num1 + num2)
 }
 
-
+console.log("kaam 25")
 add();

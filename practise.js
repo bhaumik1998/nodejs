@@ -7,3 +7,5 @@ console.log(filePath);
 
 const base = path.base(filePath);
 console.log(base);
+ 
+
